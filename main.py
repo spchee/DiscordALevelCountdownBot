@@ -22,5 +22,5 @@ async def countdown(ctx):
     embed.set_footer(text="A-Level Coutndown Bot")
     await ctx.send(embed = embed)
 
-token = "NzI0NzA5MjQ1NzUyMTgwNzk2.XvEJLA.IpZIDsl-k06gVqucX9NylCYRC1s"
+token = "CHANGE TOKEN"
 client.run(token)
